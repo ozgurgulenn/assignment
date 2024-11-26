@@ -7,6 +7,7 @@ This file is created for the “Programming for Psychologists” class at Vrije 
 
 Table of contents:
 
+- The notebook file is "OG_24112024_assigngment.ipynb"
 - The data used is extracted from this website: https://neurosynth.org/analyses/terms/addiction/
 - 2 files with the extension “.nii” are the brain imaging data. “anatomical.nii” contains anatomical information, and the “addiction_uniformity-test_z_FDR_0.01.nii” includes the functional data. 
 - “OG_24112024_assignment.ipynb” contains the assignment and the visualization of the data. 
