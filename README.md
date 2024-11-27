@@ -13,9 +13,9 @@ Table of contents:
 - “OG_24112024_assignment.ipynb” contains the assignment and the visualization of the data. 
 
 Packages used:
-Nilearn
-Matplotlib
-Nilearn
-Nibabel
-glob
-os
+- Nilearn
+- Matplotlib
+- Nilearn
+- Nibabel
+- glob
+- os
