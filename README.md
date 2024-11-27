@@ -3,7 +3,7 @@
 24_11_2024
 
 
-This file is created for the “Programming for Psychologists” class at Vrije Universiteit. It includes visualization of an fMRI data from Neurosynth, and the data contains brain activity in addiction. The file also includes an histogram of the data. 
+This file is created for the “Programming for Psychologists” class at Vrije Universiteit. It includes visualization of an fMRI data from Neurosynth, and the data contains brain activity in addiction. The file also includes an histogram of the data. Python version 3.12.4 was used.
 
 Table of contents:
 
